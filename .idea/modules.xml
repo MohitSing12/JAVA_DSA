@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2_D_Array/2_D_Array.iml" filepath="$PROJECT_DIR$/2_D_Array/2_D_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_list/Array_list.iml" filepath="$PROJECT_DIR$/Array_list/Array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_question/Array_question.iml" filepath="$PROJECT_DIR$/Array_question/Array_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_object/Class_object.iml" filepath="$PROJECT_DIR$/Class_object/Class_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_object_2/Class_object_2.iml" filepath="$PROJECT_DIR$/Class_object_2/Class_object_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_type/Data_type.iml" filepath="$PROJECT_DIR$/Data_type/Data_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divide_And_conquer/Divide_And_conquer.iml" filepath="$PROJECT_DIR$/Divide_And_conquer/Divide_And_conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritence/Inheritence.iml" filepath="$PROJECT_DIR$/Inheritence/Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_dsa_codeblocks.iml" filepath="$PROJECT_DIR$/.idea/Java_dsa_codeblocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_pattern/Number_pattern.iml" filepath="$PROJECT_DIR$/Number_pattern/Number_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUEUE/QUEUE.iml" filepath="$PROJECT_DIR$/QUEUE/QUEUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STACK/STACK.iml" filepath="$PROJECT_DIR$/STACK/STACK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" filepath="$PROJECT_DIR$/Sliding_Window/Sliding_Window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Star_Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Star_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time_And_Space_Complexity/Time_And_Space_Complexity.iml" filepath="$PROJECT_DIR$/Time_And_Space_Complexity/Time_And_Space_Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper_class/Wrapper_class.iml" filepath="$PROJECT_DIR$/Wrapper_class/Wrapper_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_loop/for_loop.iml" filepath="$PROJECT_DIR$/for_loop/for_loop.iml" />
+    </modules>
+  </component>
+</project>

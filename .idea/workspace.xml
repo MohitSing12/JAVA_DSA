@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="110b34e5-eb8b-4717-8f3b-bfcfc9267d55" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iOcigfN4FYUBn4ZBg8Q7cxmwoQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Add_two_num.executor": "Run",
+    "Application.Aggressive_cows.executor": "Run",
+    "Application.Armstrong_no.executor": "Run",
+    "Application.Array_list_demo.executor": "Run",
+    "Application.Array_swap.executor": "Run",
+    "Application.Array_swap_2.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Basics_stack.executor": "Run",
+    "Application.Binary_decimal.executor": "Run",
+    "Application.Board_path.executor": "Run",
+    "Application.Book_allocation.executor": "Run",
+    "Application.Bubble_sort.executor": "Run",
+    "Application.CB_Number.executor": "Run",
+    "Application.Car_client.executor": "Run",
+    "Application.Celebrity_question.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Code_for_prime.executor": "Run",
+    "Application.Coin_Permutation.executor": "Run",
+    "Application.Coin_combination.executor": "Run",
+    "Application.Coin_toss.executor": "Run",
+    "Application.Coin_toss_no_head.executor": "Run",
+    "Application.Compare_to.executor": "Run",
+    "Application.Count_Palindrome_substring.executor": "Run",
+    "Application.Count_Subsequence.executor": "Run",
+    "Application.Dynamic_Stack_Client.executor": "Run",
+    "Application.Fact_using_tail.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fahrenheit_celcius_question.executor": "Run",
+    "Application.Fibonacci_ques.executor": "Run",
+    "Application.First_index_return.executor": "Run",
+    "Application.HCF_program.executor": "Run",
+    "Application.Histogram_ques.executor": "Run",
+    "Application.Insertion_sort.executor": "Run",
+    "Application.Leetcode_39.executor": "Run",
+    "Application.Lexco_counting.executor": "Run",
+    "Application.LinkedList_client.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.Max_Sub_array_K_size.executor": "Run",
+    "Application.Max_Subarr_kaden_algo.executor": "Run",
+    "Application.Max_array_ques.executor": "Run",
+    "Application.Max_subarray_53.executor": "Run",
+    "Application.Maze_path.executor": "Run",
+    "Application.Merge_Two_sorted_array.executor": "Run",
+    "Application.Minimum_rotated_array.executor": "Run",
+    "Application.Next_greater_element_ques.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Palindrome_Partitioning.executor": "Run",
+    "Application.Parenthesis_ques.executor": "Run",
+    "Application.Pattern_0.executor": "Run",
+    "Application.Pattern_1.executor": "Run",
+    "Application.Pattern_10.executor": "Run",
+    "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
+    "Application.Pattern_15.executor": "Run",
+    "Application.Pattern_2.executor": "Run",
+    "Application.Pattern_3.executor": "Run",
+    "Application.Pattern_4.executor": "Run",
+    "Application.Pattern_5.executor": "Run",
+    "Application.Pattern_6.executor": "Run",
+    "Application.Pattern_7.executor": "Run",
+    "Application.Peak_element.executor": "Run",
+    "Application.Permutation.executor": "Run",
+    "Application.Power_of_x.executor": "Run",
+    "Application.Prime_sieve_algorithm.executor": "Run",
+    "Application.Print_all_substring.executor": "Run",
+    "Application.Print_subsequence.executor": "Run",
+    "Application.Problem_238.executor": "Run",
+    "Application.Queen_Combination.executor": "Run",
+    "Application.Queen_Permutation.executor": "Run",
+    "Application.Ques_713_subarr_sum_less_than_k.executor": "Run",
+    "Application.Ques_insert_button.executor": "Run",
+    "Application.Ques_reverse_queue.executor": "Run",
+    "Application.Quick_Sort.executor": "Run",
+    "Application.Rain_water_traping.executor": "Run",
+    "Application.Random_number.executor": "Run",
+    "Application.Random_quick_sort.executor": "Run",
+    "Application.Rat_chases_its_cheese.executor": "Run",
+    "Application.Rotated_sorted_array.executor": "Run",
+    "Application.SI_program.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.Sample_2.executor": "Run",
+    "Application.Search_array_240.executor": "Run",
+    "Application.Selection_Sort.executor": "Run",
+    "Application.Snake_question.executor": "Run",
+    "Application.Square_pattern.executor": "Run",
+    "Application.Stack_implementation.executor": "Run",
+    "Application.Stack_reverse.executor": "Run",
+    "Application.Stock_span_ques.executor": "Run",
+    "Application.String_demo.executor": "Run",
+    "Application.Student_client.executor": "Run",
+    "Application.Substring_length.executor": "Run",
+    "Application.Sudoku_Solver_question.executor": "Run",
+    "Application.Sum_of_digit.executor": "Run",
+    "Application.Tower_Of_hanoi.executor": "Run",
+    "Application.Transpose_ques.executor": "Run",
+    "Application.Word_Search_79.executor": "Run",
+    "Application.arithmetic_operator.executor": "Run",
+    "Application.array_.executor": "Run",
+    "Application.assign_operator.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.column_traverse_question.executor": "Run",
+    "Application.decimal_binary.executor": "Run",
+    "Application.decmal_to_any.executor": "Run",
+    "Application.demo_2.executor": "Run",
+    "Application.find_position_quick_sort_logic.executor": "Run",
+    "Application.global_var.executor": "Run",
+    "Application.hello_world.executor": "Run",
+    "Application.inc_decrement.executor": "Run",
+    "Application.input_array.executor": "Run",
+    "Application.inverse_no_program.executor": "Run",
+    "Application.item_index_ques.executor": "Run",
+    "Application.kartik_bhaiya_string.executor": "Run",
+    "Application.keypad_number_problem_17.executor": "Run",
+    "Application.local_global_var.executor": "Run",
+    "Application.max_3_no_program.executor": "Run",
+    "Application.merge_sorted_arr.executor": "Run",
+    "Application.n_Queen_problem.executor": "Run",
+    "Application.odd_0_in_array.executor": "Run",
+    "Application.one.executor": "Run",
+    "Application.pattern_8.executor": "Run",
+    "Application.pattern_9.executor": "Run",
+    "Application.prac.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.prime_no_program.executor": "Run",
+    "Application.prime_using_break.executor": "Run",
+    "Application.print_5_star_inline.executor": "Run",
+    "Application.print_no.executor": "Run",
+    "Application.ques_169.executor": "Run",
+    "Application.ques_9.executor": "Run",
+    "Application.reference_class.executor": "Run",
+    "Application.reference_var.executor": "Run",
+    "Application.reverse_array.executor": "Run",
+    "Application.rotate_array189.executor": "Run",
+    "Application.rotate_using_reverse189.executor": "Run",
+    "Application.string.executor": "Run",
+    "Application.two_D__array_initialize.executor": "Run",
+    "Application.voter_program.executor": "Run",
+    "Application.x_power_k_question.executor": "Run",
+    "Application.xy.executor": "Run",
+    "Application.xyz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="110b34e5-eb8b-4717-8f3b-bfcfc9267d55" name="Changes" comment="" />
+      <created>1719365195906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719365195906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Eclipse Adoptium/jdk-21.0.3.9-hotspot/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
