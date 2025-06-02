@@ -2,7 +2,8 @@ public class Count_Subsequence {
     public static void main(String[] args) {
         String ques="abc";
         PrintSubSeq(ques,"");
-        System.out.println(count);
+        System.out.println();
+        System.out.println("The number of subsequence is:"+count);
     }
     static int count=0;
     public static void PrintSubSeq(String ques,String ans){

@@ -7,7 +7,7 @@ public class CB_Number {
 //       Scanner sc=new Scanner(System.in);
 //        int n=sc.nextInt();
 //       String s=sc.next();
-        String s = "127";
+        String s = "1331";
 
 
         System.out.println(substring(s));
@@ -27,7 +27,7 @@ public class CB_Number {
                 long n = Long.parseLong(str);
 
                 if (is_CB_Number(n) == true && is_valid(visited, i, j) == true) {
-
+System.out.println(n);
                     count++;
                     //i to j-1 marked bcz ye CB bana chuke hain
                     for (int k = i; k < j; k++) {
