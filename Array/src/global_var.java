@@ -8,6 +8,7 @@ public class global_var {
     static int val=100;
     public static void fun(int x){
         val=120;
+
         System.out.println(val);
     }
 }
