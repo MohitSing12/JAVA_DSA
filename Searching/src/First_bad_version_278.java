@@ -1,3 +1,4 @@
+package Searching.src;
 public class First_bad_version_278 {
     public static void main(String[] args) {
 
