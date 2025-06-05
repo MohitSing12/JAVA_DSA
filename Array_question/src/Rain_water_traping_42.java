@@ -11,11 +11,13 @@ public class Rain_water_traping_42 {
         for (int i = 1; i < n; i++) {
             left[i] = Math.max(left[i - 1], arr[i]);
         }
+        //left array=[0,1,1,2,2,2,2,3,3,3,3,3]
         int[] right = new int[n];
         right[n - 1] = arr[n - 1];
         for (int i = n - 2; i >= 0; i--) {
             right[i] = Math.max(right[i + 1], arr[i]);
         }
+        //right array=[3,3,3,3,3,3,3,3,2,2,2,1]
         int sum = 0;
         for (int i = 0; i < n; i++) {
             sum = sum + Math.min(left[i], right[i])-arr[i];

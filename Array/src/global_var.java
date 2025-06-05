@@ -1,3 +1,7 @@
+
+package Array.src;
+import java.util.*;
+
 public class global_var {
     public static void main(String[] args) {
         int x=60;
