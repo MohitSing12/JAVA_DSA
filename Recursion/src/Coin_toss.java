@@ -10,7 +10,7 @@ public class Coin_toss {
             return 1;
 
         }
-       int a1= Printanswer(n - 1, ans+"H");
+        int a1= Printanswer(n - 1, ans+"H");
         int b1=Printanswer(n - 1, ans+"T");
         return a1+b1;
     }

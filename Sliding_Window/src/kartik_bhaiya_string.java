@@ -1,9 +1,13 @@
+package Sliding_Window.src;
+
 import java.util.Scanner;
 
 public class kartik_bhaiya_string {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number of letters in the string that can be replaced \n");
         int k=sc.nextInt();
+        System.out.println("Enter the string \n");
         String str=sc.next();
         int a=max_length_of_string(str,'a',k);
         int b=max_length_of_string(str,'b',k);
