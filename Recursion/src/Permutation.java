@@ -1,6 +1,7 @@
 public class Permutation {
     public static void main(String[] args) {
         String ques = "abca";
+        //Total permuatations for "abc" is 3! i.e. 6
         Printanswer(ques, "");
     }
 
