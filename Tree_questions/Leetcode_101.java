@@ -32,6 +32,8 @@ public class Leetcode_101 {
                 if (root1 == null || root2 == null) {
                     return false;
                 }
+                //If we want to check if the structure of two trees is same then,
+                //we will not use the below condition
                 if (root1.val != root2.val) {
                     return false;
                 }
