@@ -139,7 +139,7 @@ public class BinaryTree {
         System.out.print(nn.val + " ");
     }
 
-    //In-order Trversal
+    //In-order Traversal
     //Here the order of traversal is left->root->right
 
     public void in_Order(){
