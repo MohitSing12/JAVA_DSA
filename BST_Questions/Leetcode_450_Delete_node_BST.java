@@ -21,32 +21,30 @@ public class Leetcode_450_Delete_node_BST {
             this.right = right;
         }
     }
-    class Solution{
+
+    class Solution {
         public TreeNode deleteNode(TreeNode root, int key) {
-return delete(root,key);
+            return delete(root, key);
         }
-        public TreeNode delete(TreeNode root,int key){
-            if(root==null){
+
+        public TreeNode delete(TreeNode root, int key) {
+            if (root == null) {
                 return null;
             }
-            if(root.val<key){
-                root.right=delete(root.right,key);
-            }
-            else if(root.val>key){
-                root.left=delete(root.left,key);
-            }
-            else{
+            if (root.val < key) {
+                root.right = delete(root.right, key);
+            } else if (root.val > key) {
+                root.left = delete(root.left, key);
+            } else {
                 //For 0 or 1 child node
-                if(root.left==null){
+                if (root.left == null) {
                     return root.right;
-                }
-                else if(root.right==null){
+                } else if (root.right == null) {
                     return root.left;
-                }
-                else{
-int max=max(root.left);
-root.left=delete(root.left,max);
-root.val=max;
+                } else {
+                    int max = max(root.left);
+                    root.left = delete(root.left, max);
+                    root.val = max;
                 }
             }
             return root;
@@ -54,15 +52,17 @@ root.val=max;
 
 
     }
-    public int max(TreeNode root){
+
+    public int max(TreeNode root) {
         return maxx(root);
     }
-    private int maxx(TreeNode node){
-        if(node==null){
+
+    private int maxx(TreeNode node) {
+        if (node == null) {
             return Integer.MIN_VALUE;
         }
-        int right=max(node.right);
-        return Math.max(node.val,right);
+        int right = max(node.right);
+        return Math.max(node.val, right);
 
     }
 }
