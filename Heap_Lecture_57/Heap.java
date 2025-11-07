@@ -56,5 +56,8 @@ public class Heap {
     public int min() {
         return list.get(0);
     }
+    public void display(){
+        System.out.println(list);
+    }
 
 }
