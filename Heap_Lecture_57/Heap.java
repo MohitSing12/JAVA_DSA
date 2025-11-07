@@ -1,0 +1,60 @@
+package Heap_Lecture_57;
+
+import java.util.ArrayList;
+
+public class Heap {
+    ArrayList<Integer> list = new ArrayList<>();
+
+    public void add(int item) {
+        list.add(item);
+        upheapify(list.size() - 1);
+    }
+
+    public void upheapify(int ci) {
+        int pi = (ci - 1) / 2;
+        if (list.get(pi) > list.get(ci)) {
+            Swap(ci, pi);
+            //ci=pi
+            upheapify(pi);
+        }
+    }
+
+    public void Swap(int i, int j) {
+        int ith = list.get(i);
+        int jth = list.get(j);
+        list.set(i, jth);
+        list.set(j, ith);
+    }
+
+    public int remove() {
+        Swap(0, list.size() - 1);
+        int rv = list.remove(list.size() - 1);
+        downHeapify(0);
+        return rv;
+    }
+
+    private void downHeapify(int pi) {
+        int lci = 2 * pi + 1; //left child
+        int rci = 2 * pi + 2; //right child
+        int mini = pi;
+        if (lci<list.size() && list.get(lci) < list.get(mini)) {
+            mini = lci;
+        }
+        if (rci<list.size() && list.get(rci) < list.get(mini)) {
+            mini = rci;
+        }
+        if (mini != pi) {
+            Swap(mini, pi);
+            downHeapify(mini);
+        }
+    }
+
+    public int size() {
+        return list.size();
+    }
+
+    public int min() {
+        return list.get(0);
+    }
+
+}
