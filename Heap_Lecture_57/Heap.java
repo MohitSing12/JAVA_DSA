@@ -48,7 +48,7 @@ public class Heap {
             downHeapify(mini);
         }
     }
-//To calculate the size
+//To calculate the sizee
     public int size() {
         return list.size();
     }
