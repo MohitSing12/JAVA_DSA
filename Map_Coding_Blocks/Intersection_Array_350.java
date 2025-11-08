@@ -31,7 +31,7 @@ public class Intersection_Array_350 {
         for(int i=0;i<arr2.length;i++){
             if(map.containsKey(arr2[i])){
                 ll.add(arr2[i]);
-                map.put(arr1[i],map.get(arr2[i])-1);
+                map.put(arr2[i],map.get(arr2[i])-1);
             }
         }
         int[] ans=new int[ll.size()];
