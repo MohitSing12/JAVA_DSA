@@ -1,9 +1,6 @@
 package Map_Coding_Blocks;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.LinkedHashMap;
-import java.util.TreeMap;
+import java.util.*;
 
 public class map {
     public static void main(String[] args) {
@@ -34,6 +31,21 @@ public class map {
         map1.put("A",100);
 //        map1.put(null,200);
         System.out.println(map1);
+
+        System.out.println("*******");
+        //To iterate over a map:
+        //1st method
+//        Set<String> set=map1.keySet();
+//        for(String x:set){
+//            System.out.print(x+":"+map.get(x)+" ");
+//        }
+
+        //2nd Method
+        for(String x:map1.keySet()){
+            System.out.print(x+":"+map.get(x)+" ");
+        }
+        System.out.println();
+        System.out.println("*******");
 
  //LinkedHashMap is implemented using Doubly Linked List
 //LinkedHashMap maintains the order of insertion(The manner in which the user enters the key-value)
