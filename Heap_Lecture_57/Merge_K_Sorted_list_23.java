@@ -15,6 +15,8 @@ public class Merge_K_Sorted_list_23 {
       PriorityQueue<ListNode> pq=new PriorityQueue<>(new Comparator<ListNode>() {
           @Override
           public int compare(ListNode o1, ListNode o2) {
+              //Here we will do o1.val-o2.val bcz its min heap and
+              // implementation of this is different from the heap
               return o1.val-o2.val;
           }
       });
@@ -23,6 +25,7 @@ public class Merge_K_Sorted_list_23 {
               pq.add(lists[i]);
           }
       }
+
       ListNode dummy=new ListNode();
       ListNode temp=dummy;
       while(!pq.isEmpty()){
