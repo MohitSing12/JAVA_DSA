@@ -1,6 +1,5 @@
-package Lecture_56;
+package Lecture_56_Generic_Sorting;
 
-import java.util.Arrays;
 import java.util.Comparator;
 
 public class Cars_Client {

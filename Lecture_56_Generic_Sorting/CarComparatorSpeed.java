@@ -1,4 +1,4 @@
-package Lecture_56;
+package Lecture_56_Generic_Sorting;
 
 import java.util.Comparator;
 

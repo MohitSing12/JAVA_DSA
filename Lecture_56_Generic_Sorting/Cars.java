@@ -1,4 +1,4 @@
-package Lecture_56;
+package Lecture_56_Generic_Sorting;
 
 public class Cars /*implements Comparable<Cars>*/{
     int speed;

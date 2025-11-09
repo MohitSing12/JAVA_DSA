@@ -1,4 +1,4 @@
-package Lecture_56;
+package Lecture_56_Generic_Sorting;
 
 import java.util.*;
 
@@ -24,6 +24,9 @@ public class BusyMan_spoj {
                         }
                     }
             );
+            for(int i=0;i< arr.length;i++){
+                System.out.println(arr[i].end);
+            }
             int count = 1;
             int end = arr[0].end;
             for (int i = 0; i < arr.length; i++) {
@@ -32,7 +35,7 @@ public class BusyMan_spoj {
                     end = arr[i].end;
                 }
             }
-            System.out.println(count);
+//            System.out.println(count);
         }
 
     }
