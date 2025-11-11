@@ -14,6 +14,7 @@ public class Set_Demo {
         set.add(-12);
         set.add(36);
         System.out.println(set);
+
 //        System.out.println(set.contains(-12));
 //        set.remove(-12);
 //        System.out.println(set);
